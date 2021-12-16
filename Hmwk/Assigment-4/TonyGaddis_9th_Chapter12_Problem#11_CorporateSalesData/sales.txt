@@ -1,0 +1,20 @@
+Division-North |Quarter-1 |Sales Amount-1|
+Division-North |Quarter-2 |Sales Amount-2|
+Division-North |Quarter-3 |Sales Amount-3|
+Division-North |Quarter-4 |Sales Amount-4|
+
+Division-East  |Quarter-1 |Sales Amount-1|
+Division-East  |Quarter-2 |Sales Amount-2|
+Division-East  |Quarter-3 |Sales Amount-3|
+Division-East  |Quarter-4 |Sales Amount-4|
+
+Division-South |Quarter-1 |Sales Amount-1|
+Division-South |Quarter-2 |Sales Amount-2|
+Division-South |Quarter-3 |Sales Amount-3|
+Division-South |Quarter-4 |Sales Amount-4|
+
+Division-West  |Quarter-1 |Sales Amount-1|
+Division-West  |Quarter-2 |Sales Amount-2|
+Division-West  |Quarter-3 |Sales Amount-3|
+Division-West  |Quarter-4 |Sales Amount-4|
+
